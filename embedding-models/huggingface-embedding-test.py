@@ -42,4 +42,6 @@ print(sorted_similarity)
 
 index, myscore = sorted_similarity[0]
 
+print("Question: ", question)
+
 print(f"Most similar document is: {documents[index]} with score: {myscore}")

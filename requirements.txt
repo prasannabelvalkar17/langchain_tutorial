@@ -1,3 +1,5 @@
+# pip install -r requirements.txt
+
 # LangChain Core
 langchain
 langchain-core
@@ -25,3 +27,5 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+streamlit

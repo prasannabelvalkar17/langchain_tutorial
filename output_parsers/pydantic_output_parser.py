@@ -34,3 +34,5 @@ chain = template | model | parser
 result = chain.invoke({"person_info": "Ron Weasly"})
 
 print(result)
+
+chain.get_graph().print_ascii()

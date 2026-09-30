@@ -38,3 +38,5 @@ langchain-classic
 grandalf  #for graph visualization
 
 langchain-community
+pypdf
+beautifulsoup4  # For web base loader

@@ -36,3 +36,5 @@ pydantic[email]
 langchain-classic
 
 grandalf  #for graph visualization
+
+langchain-community

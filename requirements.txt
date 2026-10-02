@@ -40,3 +40,6 @@ grandalf  #for graph visualization
 langchain-community
 pypdf
 beautifulsoup4  # For web base loader
+
+langchain-text-splitters
+langchain-experimental   #for SemanticTextSplitter
